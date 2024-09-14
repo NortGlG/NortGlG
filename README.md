@@ -10,7 +10,7 @@
 
 - 🥇 Gold Medal + 1st Place in **19th Thailand Olympiad in Informatics (2023)** 
 - 💻 Participate **Asia-Pacific Informatics Olympiad (2024)** 
-- 🐪 Qualified to be Thailand Team of **36th International Olympiad in Informatics (2024)**
+- 🥈 Silver Medal in **36th International Olympiad in Informatics (2024) Alexandria, Egypt**
 
 <p align="center">
  <h3> 📫 How to reach me: </h3> <br/>
