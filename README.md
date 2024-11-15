@@ -2,9 +2,9 @@
   Hello! My name is Sean Wanitchollakit.
 </h3>
 
-<h4 align="center">
-  👀 I’m currently learning on Competitive Programming
-</h4>
+### Status 📈
+- 🏫 Plan to attend MIT after finish high school
+- 🗣️ Currently Study English 😭
 
 ### Here is some of my Achievement 🏆
 
