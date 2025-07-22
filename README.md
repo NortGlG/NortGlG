@@ -3,8 +3,7 @@
 </h3>
 
 ### Status 📈
-- 🏫 Plan to attend MIT after finish high school
-- 🗣️ Currently Study English 😭
+- Nothing
 
 ### Here is some of my Achievement 🏆
 
