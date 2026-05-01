@@ -3,13 +3,13 @@
 </h3>
 
 ### Status 📈
-- Nothing
+- Learnign english are so Hard. 😭
 
 ### Here is some of my Achievement 🏆
 
-- 🥇 Gold Medal + 1st Place in **19th Thailand Olympiad in Informatics (2023)** 
-- 💻 Participate **Asia-Pacific Informatics Olympiad (2024)** 
-- 🥈 Silver Medal in **36th International Olympiad in Informatics (2024)**
+- 🥇 Gold Medal & Achieved Highest Score in **19th Thailand Olympiad in Informatics (2023)** 
+- 🥈 Silver Medal in **36th International Olympiad in Informatics (2024)** 
+- 🥈 Silver Medal in **37th International Olympiad in Informatics (2025)** 
 
 <p align="center">
  <h3> 📫 How to reach me: </h3> <br/>
