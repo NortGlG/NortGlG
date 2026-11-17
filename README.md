@@ -3,7 +3,7 @@
 </h3>
 
 ### Status 📈
-- Learnign english are so Hard. 😭
+- Enjoy
 
 ### Here is some of my Achievement 🏆
 
